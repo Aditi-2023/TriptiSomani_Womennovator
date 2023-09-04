@@ -10,12 +10,13 @@ include_once('header.php');
     <!--Navbar end-->
     
     
-   <div class="section-parallax" style="background-image: url(img/images/9.jpg);background-position: center;">
+   <div class="section-parallax" style="background-image: url(img/images/12.jpg);background-position: center;">
             <div class="parallax">
                 <div class="container my-5 pt-md-5">
                     <div class="text-center pt-md-5 pt-4">
-                        <h1 class="display-4 text-white dm-font mb-2">About Us</h1> 
+                        <h1 class="display-4 text-white dm-font mb-2">About Tripti</h1> 
                     </div>
+                    <p>“A life dedicated to helping individuals and businesses succeed”</p>
                 </div>
             </div>
         </div>
@@ -31,15 +32,15 @@ include_once('header.php');
                     <div class="text-start">
                         <h1 class="display-6 dm-font mb-4">Enterpreneur</h1> 
                     </div>
-                    <p>Everyone knows me by the myriad of roles I play- a Daughter, Wife, Mother, CEO and so on…</p>
+                    <p>Everyone knows she by the myriad of roles she plays - a Daughter, Wife, Mother, CEO and so on…</p>
 
-                    <p>But, I like to call myself a ‘Success Coach’ as that pretty much sums up all my roles, my goals and my aspirations. That is what I thrive on.. That is what I strive for the most- Success! This Success is not for me alone, but for all those people that I work, support and associate with. Be it my family, my company or several other initiatives that I work on. I naturally succeed when all these people succeed and this is the real me. Me, behind all the tags and the glorious positions I proudly hold.</p>
+                    <p>But, she like to call herself a ‘Success Coach’ as that pretty much sums up all her roles, her goals and her aspirations. That is what she thrive on.. That is what she strive for the most- Success! This Success is not for her alone, but for all those people that she work, support and associate with. Be it her family, her company or several other initiatives that she work on. She naturally succeed when all these people succeed and this is the real she is. She, behind all the tags and the glorious positions she proudly hold.</p>
 
-                    <p>A Chartered Accountant and Post graduate in law with over 16 years of progressive experience in profit and non-profit organizations both large and SMEs including business and financial advisory for various organizations such as PwC, Grant Thornton (GT) &amp; World Bank. Very early on in my career I got exposed to various multi – national, foreign and domestic companies spread over a range of industries and have been involved in several cross border transactions, both outbound and inbound, on behalf of strategic and financial investors.</p>
+                    <p>A Chartered Accountant and Post graduate in law with over 16 years of progressive experience in profit and non-profit organizations both large and SMEs including business and financial advisory for various organizations such as PwC, Grant Thornton (GT) &amp; World Bank. Very early on in her career She got exposed to various multi – national, foreign and domestic companies spread over a range of industries and have been involved in several cross border transactions, both outbound and inbound, on behalf of strategic and financial investors.</p>
 
-                    <p>A natural Networker, I believe- ‘Success knows no shortcuts’ and I am passionate about coaching the young Entrepreneurs on their journey. If you are an aspirational Entrepreneur and want to utilize the needed support join our incubation &amp; acceleration Programs available for you @ KGS Advisors. I coach Entrepreneurs @ SMEs, MSMEs &amp; Women run businesses wherein I empower these Entrepreneurs with a strong eco-system integrated with Finance, Strategy, Governance, Market Validation and even Fund Raising Assistance.</p>
+                    <p>A natural Networker, She believe- ‘Success knows no shortcuts’ and She is passionate about coaching the young Entrepreneurs on their journey. If you are an aspirational Entrepreneur and want to utilize the needed support join our incubation &amp; acceleration Programs available for you @ KGS Advisors. She coach Entrepreneurs @ SMEs, MSMEs &amp; Women run businesses wherein She empower these Entrepreneurs with a strong eco-system integrated with Finance, Strategy, Governance, Market Validation and even Fund Raising Assistance.</p>
 
-                    <p>A popular TEDxSpeaker, a writer, I contribute to reputed industry events and influence the policymakers to bring about a change in the govt. policies to support the young Entrepreneurs. Please feel free to reach out to me and until then the one message I have for you is – ‘Dream the impossible, see the unknown &amp; achieve greatness’.
+                    <p>A popular TEDxSpeaker, a writer, She contribute to reputed industry events and influence the policymakers to bring about a change in the govt. policies to support the young Entrepreneurs. Please feel free to reach out to her and until then the one message She have for you is – ‘Dream the impossible, see the unknown &amp; achieve greatness’.
                     </p>
                 </div>
             </div>
@@ -55,8 +56,8 @@ include_once('header.php');
                         <h1 class="display-6 dm-font mb-4">STRATEGIST</h1> 
                     </div>
                     <p>25% of all Government sourcing had to be done from small businesses. This announcement showed the government’s intent to encourage small entrepreneurs. </p> 
-                    <p>The Ministry of Micro, Small & Medium Enterprise had been tasked to work out the details & they  invited me to advise on the policy paper.  “Why not use the paradigm of quotas to encourage more women participation?” I suggested.  “Out of the total annual procurement from small businesses, 3% percent should come from Women owned Enterprises.” </p> 
-                    <p>3 years later - I got a call from the Ministry confirming that my suggestion was incorporated in the new Public Procurement Policy. It was an amazing moment - I naively believed that this would be the solution to getting loads of orders for women entrepreneurs.</p> 
+                    <p>The Ministry of Micro, Small & Medium Enterprise had been tasked to work out the details & they  invited her to advise on the policy paper.  “Why not use the paradigm of quotas to encourage more women participation?” She suggested.  “Out of the total annual procurement from small businesses, 3% percent should come from Women owned Enterprises.” </p> 
+                    <p>3 years later - She got a call from the Ministry confirming that her suggestion was incorporated in the new Public Procurement Policy. It was an amazing moment - She naively believed that this would be the solution to getting loads of orders for women entrepreneurs.</p> 
                     <p>The data from ‘18 to ‘20 showed that of the total procurement target of $591 million from women owned businesses,  only $96 million was achieved, meaning 90% of the target was not achieved!! </p> 
                     <p>To narrow this gap, we got many women owned businesses registered on the government procurement portals (GEMs). In interactions with  multi billion dollar government companies such as GAIL and IOCL we realised that they want to procure from women but are unable to find them.  To facilitate this, we started vendor development meetings with these  companies to help many of them get orders. We helped the women negotiate & explained the Quality requirements. Proud to say that many of our incubatees are now officially supplying to various government agencies.
                     </p>
@@ -79,15 +80,15 @@ include_once('header.php');
                     <div class="text-start">
                         <h1 class="display-6 dm-font mb-4">MENTOR</h1> 
                     </div>
-                    <p>Everyone knows me by the myriad of roles I play- a Daughter, Wife, Mother, CEO and so on…</p>
+                    <p>Everyone knows her by the myriad of roles She play- a Daughter, Wife, Mother, CEO and so on…</p>
 
-                    <p>But, I like to call myself a ‘Success Coach’ as that pretty much sums up all my roles, my goals and my aspirations. That is what I thrive on.. That is what I strive for the most- Success! This Success is not for me alone, but for all those people that I work, support and associate with. Be it my family, my company or several other initiatives that I work on. I naturally succeed when all these people succeed and this is the real me. Me, behind all the tags and the glorious positions I proudly hold.</p>
+                    <p>But, She like to call herself a ‘Success Coach’ as that pretty much sums up all her roles, her goals and her aspirations. That is what She thrive on.. That is what She strive for the most- Success! This Success is not for her alone, but for all those people that She work, support and associate with. Be it her family, her company or several other initiatives that She work on. She naturally succeed when all these people succeed and this is the real She is. She, behind all the tags and the glorious positions she proudly hold.</p>
 
-                    <p>A Chartered Accountant and Post graduate in law with over 16 years of progressive experience in profit and non-profit organizations both large and SMEs including business and financial advisory for various organizations such as PwC, Grant Thornton (GT) &amp; World Bank. Very early on in my career I got exposed to various multi – national, foreign and domestic companies spread over a range of industries and have been involved in several cross border transactions, both outbound and inbound, on behalf of strategic and financial investors.</p>
+                    <p>A Chartered Accountant and Post graduate in law with over 16 years of progressive experience in profit and non-profit organizations both large and SMEs including business and financial advisory for various organizations such as PwC, Grant Thornton (GT) &amp; World Bank. Very early on in her career She got exposed to various multi – national, foreign and domestic companies spread over a range of industries and have been involved in several cross border transactions, both outbound and inbound, on behalf of strategic and financial investors.</p>
 
-                    <p>A natural Networker, I believe- ‘Success knows no shortcuts’ and I am passionate about coaching the young Entrepreneurs on their journey. If you are an aspirational Entrepreneur and want to utilize the needed support join our incubation &amp; acceleration Programs available for you @ KGS Advisors. I coach Entrepreneurs @ SMEs, MSMEs &amp; Women run businesses wherein I empower these Entrepreneurs with a strong eco-system integrated with Finance, Strategy, Governance, Market Validation and even Fund Raising Assistance.</p>
+                    <p>A natural Networker, She believe- ‘Success knows no shortcuts’ and She passionate about coaching the young Entrepreneurs on their journey. If you are an aspirational Entrepreneur and want to utilize the needed support join our incubation &amp; acceleration Programs available for you @ KGS Advisors. She coach Entrepreneurs @ SMEs, MSMEs &amp; Women run businesses wherein She empower these Entrepreneurs with a strong eco-system integrated with Finance, Strategy, Governance, Market Validation and even Fund Raising Assistance.</p>
 
-                    <p>A popular TEDxSpeaker, a writer, I contribute to reputed industry events and influence the policymakers to bring about a change in the govt. policies to support the young Entrepreneurs. Please feel free to reach out to me and until then the one message I have for you is – ‘Dream the impossible, see the unknown &amp; achieve greatness’.
+                    <p>A popular TEDxSpeaker, a writer, She contribute to reputed industry events and influence the policymakers to bring about a change in the govt. policies to support the young Entrepreneurs. Please feel free to reach out to her and until then the one message She have for you is – ‘Dream the impossible, see the unknown &amp; achieve greatness’.
                     </p>
                 </div>
             </div>
@@ -103,8 +104,8 @@ include_once('header.php');
                         <h1 class="display-6 dm-font mb-4">Policy Changemaker</h1> 
                     </div>
                     <p>25% of all Government sourcing had to be done from small businesses. This announcement showed the government’s intent to encourage small entrepreneurs. </p> 
-                    <p>The Ministry of Micro, Small & Medium Enterprise had been tasked to work out the details & they  invited me to advise on the policy paper.  “Why not use the paradigm of quotas to encourage more women participation?” I suggested.  “Out of the total annual procurement from small businesses, 3% percent should come from Women owned Enterprises.” </p> 
-                    <p>3 years later - I got a call from the Ministry confirming that my suggestion was incorporated in the new Public Procurement Policy. It was an amazing moment - I naively believed that this would be the solution to getting loads of orders for women entrepreneurs.</p> 
+                    <p>The Ministry of Micro, Small & Medium Enterprise had been tasked to work out the details & they  invited her to advise on the policy paper.  “Why not use the paradigm of quotas to encourage more women participation?” She suggested.  “Out of the total annual procurement from small businesses, 3% percent should come from Women owned Enterprises.” </p> 
+                    <p>3 years later - She got a call from the Ministry confirming that my suggestion was incorporated in the new Public Procurement Policy. It was an amazing moment - She naively believed that this would be the solution to getting loads of orders for women entrepreneurs.</p> 
                     <p>The data from ‘18 to ‘20 showed that of the total procurement target of $591 million from women owned businesses,  only $96 million was achieved, meaning 90% of the target was not achieved!! </p> 
                     <p>To narrow this gap, we got many women owned businesses registered on the government procurement portals (GEMs). In interactions with  multi billion dollar government companies such as GAIL and IOCL we realised that they want to procure from women but are unable to find them.  To facilitate this, we started vendor development meetings with these  companies to help many of them get orders. We helped the women negotiate & explained the Quality requirements. Proud to say that many of our incubatees are now officially supplying to various government agencies.
                     </p>
