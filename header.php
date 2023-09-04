@@ -44,7 +44,7 @@
                     </li> 
                      <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="about.php" >
-                           About Us
+                           About Tripti
                         </a>
                         <ul class="dropdown-menu py-md-2 py-0" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="journey.php">Her Journey</a></li>
@@ -87,7 +87,7 @@
                         </li>
                         <li class="nav-item dropdown">
                         <a class="nav-link text-dark dropdown-toggle" href="javascript:void(0);" >
-                           About Us
+                           About Tripti
                         </a>
                         <ul class="dropdown-menu py-md-2 py-0" aria-labelledby="navbarDropdown"> 
                             <li><a class="dropdown-item" href="journey.php">Her Journey</a></li>
