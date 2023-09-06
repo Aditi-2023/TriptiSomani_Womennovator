@@ -1,0 +1,108 @@
+[16-Nov-2022 20:28:19 America/Boise] PHP Warning:  require_once(/home4/kgsomani/public_html/triptisomani/desivibes/conf/conn.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/conf/Db.php on line 5
+[16-Nov-2022 20:28:19 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/kgsomani/public_html/triptisomani/desivibes/conf/conn.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/conf/Db.php:5
+Stack trace:
+#0 /home4/kgsomani/public_html/triptisomani/admin/index.php(8): include_once()
+#1 {main}
+  thrown in /home4/kgsomani/public_html/triptisomani/conf/Db.php on line 5
+[16-Nov-2022 23:47:22 America/Boise] PHP Warning:  Undefined variable $total_employee in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 62
+[16-Nov-2022 23:47:22 America/Boise] PHP Warning:  Undefined variable $total_employers in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 82
+[16-Nov-2022 23:47:22 America/Boise] PHP Warning:  Undefined variable $total_jobpost in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 103
+[16-Nov-2022 23:54:14 America/Boise] PHP Warning:  include_once(../config/Db.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[16-Nov-2022 23:54:14 America/Boise] PHP Warning:  include_once(): Failed opening '../config/Db.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[16-Nov-2022 23:54:14 America/Boise] PHP Warning:  include_once(autoload.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 4
+[16-Nov-2022 23:54:14 America/Boise] PHP Warning:  include_once(): Failed opening 'autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 4
+[16-Nov-2022 23:54:14 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ADMINURL" in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 7
+[16-Nov-2022 23:54:31 America/Boise] PHP Warning:  include_once(../config/Db.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[16-Nov-2022 23:54:31 America/Boise] PHP Warning:  include_once(): Failed opening '../config/Db.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[16-Nov-2022 23:54:31 America/Boise] PHP Warning:  include_once(autoload.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 4
+[16-Nov-2022 23:54:31 America/Boise] PHP Warning:  include_once(): Failed opening 'autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 4
+[16-Nov-2022 23:54:31 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ADMINURL" in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 7
+[16-Nov-2022 23:54:33 America/Boise] PHP Warning:  include_once(../config/Db.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[16-Nov-2022 23:54:33 America/Boise] PHP Warning:  include_once(): Failed opening '../config/Db.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[16-Nov-2022 23:54:33 America/Boise] PHP Warning:  include_once(autoload.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 4
+[16-Nov-2022 23:54:33 America/Boise] PHP Warning:  include_once(): Failed opening 'autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 4
+[16-Nov-2022 23:54:33 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ADMINURL" in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 7
+[16-Nov-2022 23:54:34 America/Boise] PHP Warning:  include_once(../config/Db.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[16-Nov-2022 23:54:34 America/Boise] PHP Warning:  include_once(): Failed opening '../config/Db.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[16-Nov-2022 23:54:34 America/Boise] PHP Warning:  include_once(autoload.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 4
+[16-Nov-2022 23:54:34 America/Boise] PHP Warning:  include_once(): Failed opening 'autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 4
+[16-Nov-2022 23:54:34 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ADMINURL" in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 7
+[16-Nov-2022 23:54:36 America/Boise] PHP Warning:  include_once(../config/Db.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[16-Nov-2022 23:54:36 America/Boise] PHP Warning:  include_once(): Failed opening '../config/Db.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[16-Nov-2022 23:54:36 America/Boise] PHP Warning:  include_once(autoload.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 4
+[16-Nov-2022 23:54:36 America/Boise] PHP Warning:  include_once(): Failed opening 'autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 4
+[16-Nov-2022 23:54:36 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ADMINURL" in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 7
+[16-Nov-2022 23:54:37 America/Boise] PHP Warning:  include_once(../config/Db.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[16-Nov-2022 23:54:37 America/Boise] PHP Warning:  include_once(): Failed opening '../config/Db.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[16-Nov-2022 23:54:37 America/Boise] PHP Warning:  include_once(autoload.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 4
+[16-Nov-2022 23:54:37 America/Boise] PHP Warning:  include_once(): Failed opening 'autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 4
+[16-Nov-2022 23:54:37 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ADMINURL" in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 7
+[16-Nov-2022 23:55:26 America/Boise] PHP Warning:  include_once(../config/Db.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[16-Nov-2022 23:55:26 America/Boise] PHP Warning:  include_once(): Failed opening '../config/Db.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[16-Nov-2022 23:56:10 America/Boise] PHP Warning:  include_once(../config/Db.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[16-Nov-2022 23:56:10 America/Boise] PHP Warning:  include_once(): Failed opening '../config/Db.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[16-Nov-2022 23:56:10 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ADMINURL" in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 7
+[16-Nov-2022 23:57:07 America/Boise] PHP Warning:  include_once(../config/Db.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[16-Nov-2022 23:57:07 America/Boise] PHP Warning:  include_once(): Failed opening '../config/Db.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[16-Nov-2022 23:57:18 America/Boise] PHP Warning:  Undefined variable $total_employee in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 62
+[16-Nov-2022 23:57:18 America/Boise] PHP Warning:  Undefined variable $total_employers in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 82
+[16-Nov-2022 23:57:18 America/Boise] PHP Warning:  Undefined variable $total_jobpost in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 103
+[17-Nov-2022 00:00:54 America/Boise] PHP Warning:  Undefined variable $total_employee in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 62
+[17-Nov-2022 00:00:54 America/Boise] PHP Warning:  Undefined variable $total_employers in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 82
+[17-Nov-2022 00:00:54 America/Boise] PHP Warning:  Undefined variable $total_jobpost in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 103
+[17-Nov-2022 00:00:58 America/Boise] PHP Warning:  Undefined variable $total_employee in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 62
+[17-Nov-2022 00:00:58 America/Boise] PHP Warning:  Undefined variable $total_employers in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 82
+[17-Nov-2022 00:00:58 America/Boise] PHP Warning:  Undefined variable $total_jobpost in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 103
+[17-Nov-2022 00:16:59 America/Boise] PHP Warning:  include_once(../config/Db.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[17-Nov-2022 00:16:59 America/Boise] PHP Warning:  include_once(): Failed opening '../config/Db.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[17-Nov-2022 00:18:59 America/Boise] PHP Warning:  Undefined variable $total_employee in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 62
+[17-Nov-2022 00:18:59 America/Boise] PHP Warning:  Undefined variable $total_employers in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 82
+[17-Nov-2022 00:18:59 America/Boise] PHP Warning:  Undefined variable $total_jobpost in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 103
+[17-Nov-2022 00:19:36 America/Boise] PHP Warning:  include_once(../config/Db.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[17-Nov-2022 00:19:36 America/Boise] PHP Warning:  include_once(): Failed opening '../config/Db.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[17-Nov-2022 00:19:41 America/Boise] PHP Warning:  Undefined variable $total_employee in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 62
+[17-Nov-2022 00:19:41 America/Boise] PHP Warning:  Undefined variable $total_employers in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 82
+[17-Nov-2022 00:19:41 America/Boise] PHP Warning:  Undefined variable $total_jobpost in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 103
+[17-Nov-2022 00:19:45 America/Boise] PHP Warning:  include_once(../config/Db.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[17-Nov-2022 00:19:45 America/Boise] PHP Warning:  include_once(): Failed opening '../config/Db.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[17-Nov-2022 00:19:50 America/Boise] PHP Warning:  Undefined variable $total_employee in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 62
+[17-Nov-2022 00:19:50 America/Boise] PHP Warning:  Undefined variable $total_employers in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 82
+[17-Nov-2022 00:19:50 America/Boise] PHP Warning:  Undefined variable $total_jobpost in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 103
+[17-Nov-2022 00:19:54 America/Boise] PHP Warning:  Undefined variable $total_employee in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 62
+[17-Nov-2022 00:19:54 America/Boise] PHP Warning:  Undefined variable $total_employers in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 82
+[17-Nov-2022 00:19:54 America/Boise] PHP Warning:  Undefined variable $total_jobpost in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 103
+[17-Nov-2022 00:30:59 America/Boise] PHP Warning:  include_once(../config/Db.php): Failed to open stream: No such file or directory in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[17-Nov-2022 00:30:59 America/Boise] PHP Warning:  include_once(): Failed opening '../config/Db.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/kgsomani/public_html/triptisomani/admin/sign-out.php on line 3
+[22-Nov-2022 03:15:41 America/Boise] PHP Warning:  Undefined variable $total_employee in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 62
+[22-Nov-2022 03:15:41 America/Boise] PHP Warning:  Undefined variable $total_employers in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 82
+[22-Nov-2022 03:15:41 America/Boise] PHP Warning:  Undefined variable $total_jobpost in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 103
+[22-Nov-2022 03:43:39 America/Boise] PHP Warning:  Undefined variable $total_employee in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 62
+[22-Nov-2022 03:43:39 America/Boise] PHP Warning:  Undefined variable $total_employers in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 82
+[22-Nov-2022 03:43:39 America/Boise] PHP Warning:  Undefined variable $total_jobpost in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 103
+[22-Nov-2022 03:44:37 America/Boise] PHP Warning:  Undefined variable $total_employee in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 62
+[22-Nov-2022 03:44:37 America/Boise] PHP Warning:  Undefined variable $total_employers in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 82
+[22-Nov-2022 03:44:37 America/Boise] PHP Warning:  Undefined variable $total_jobpost in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 103
+[01-Sep-2023 01:33:20 America/Boise] PHP Warning:  Undefined variable $total_employee in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 62
+[01-Sep-2023 01:33:20 America/Boise] PHP Warning:  Undefined variable $total_employers in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 82
+[01-Sep-2023 01:33:20 America/Boise] PHP Warning:  Undefined variable $total_jobpost in /home4/kgsomani/public_html/triptisomani/admin/dashboard.php on line 103
